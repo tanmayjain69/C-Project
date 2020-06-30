@@ -1,0 +1,12 @@
+
+DISPLAYING MOTORBIKE DATA
+Name of the borrower of the Motorbike:tanm
+Number of days rented:30
+Cost of borrowed motorbike:1234
+Motorbike number is:12345
+The motorbike company is:abc
+The motorbike power is:200 cc
+The borrower was not involved in any accident
+fine=0
+The total cost is:15000Rupees
+The total profit on motorbike rent: 15000Rupees

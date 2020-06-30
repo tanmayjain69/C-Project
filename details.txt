@@ -1,0 +1,12 @@
+
+		DISPLAYING CAR DATA
+Name of the borrower of the car:tanmay
+Number of days rented:30
+Cost of borrowed car:1200
+Car number is:123
+The car company is:ford
+The car type is:FR
+THE BORROWER WAS INVOLVED IN AN ACCIDENT
+THE FINE IS:720 Rupees
+The total cost is:30720Rupees
+The total profit on car rent:30720Rupees
